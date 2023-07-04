@@ -20,4 +20,5 @@ https://copyfonts.com/fonts/tr-arial.html
 
 <h2>🤖 Kullanım</h2>
 "createStickers.py" dosyasında kullanılan tüm kütüphanelerin sisteminizde bulunduğundan emin olun. <br>
-Trendyol API ile çekilen siparişleri "createSticker(order)" fonksiyonunda çağırarak (order) işleme alın. Oluşturulan sticker'ı <b>stickers</b> klasörü içinde bulabilirsiniz.
+Trendyol API ile çekilen siparişleri "createSticker(order)" fonksiyonunda çağırarak (order) işleme alın. <br>
+Oluşturulan sticker'ı <b>stickers</b> klasörü içinde bulabilirsiniz.
